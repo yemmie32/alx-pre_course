@@ -1,2 +1,2 @@
-My first readme
-ALX School is so cool!
+My first readme updated
+
